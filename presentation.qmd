@@ -1,0 +1,59 @@
+---
+title: "EndingLoneliness"
+subtitle: "A Dashboard and Website Project"
+format: 
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    
+---
+
+
+## Project Overview {.smaller}
+
+Purpose:
+Create an online platform focused on helping individuals combat loneliness through group connections and shared experiences.
+
+Deliverable: An engaging website with integrated dashboards to provide valuable insights and resources.
+
+Target Audience:
+Adults experiencing social isolation or disconnection, including professionals living away from family or individuals with limited social networks.
+
+---
+
+## Website Concept {.smaller}
+
+The website will focus on showcasing impact, engagement, and scalability to attract users.
+
+Website Sections:
+
+- Homepage: "Together, We End Loneliness" 
+
+- Key Metrics Highlighted: "85% of users feel less lonely after 1 month."
+
+- How It Works Section: Join group calls and track your emotional progress.
+
+- Community Section: Interactive map showing the geographic reach of the platform.
+
+- Emotional Resonance Section: Dashboard showcasing positive user feedback 
+
+- Call-to-action: For users to sign up
+
+---
+
+## Dashboard Types {.smaller}
+
+1. Impact Dashboard
+Showcasing the effectiveness of the platform in reducing loneliness among users (% of users reporting reduced loneliness after 1 week, 1 month, and 3 months).
+
+2. Engagement Dashboard
+Highlighting the level of user activity and engagement (number of active users weekly and monthly.)
+
+3. Community Growth Dashboard
+Depicting the growth and diversity of the community to show that it is scaling and inclusive (geographic spread of users).
+
+4. Sentiment Dashboard
+Data use to demonstrate the emotional resonance and positive impact on users' lives (success stories highlighted with data points).
+

@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "presentation.html#project-overview",
+    "href": "presentation.html#project-overview",
+    "title": "EndingLoneliness",
+    "section": "Project Overview",
+    "text": "Project Overview\nPurpose: Create an online platform focused on helping individuals combat loneliness through group connections and shared experiences.\nDeliverable: An engaging website with integrated dashboards to provide valuable insights and resources.\nTarget Audience: Adults experiencing social isolation or disconnection, including professionals living away from family or individuals with limited social networks."
+  },
+  {
+    "objectID": "presentation.html#website-concept",
+    "href": "presentation.html#website-concept",
+    "title": "EndingLoneliness",
+    "section": "Website Concept",
+    "text": "Website Concept\nThe website will focus on showcasing impact, engagement, and scalability to attract users.\nWebsite Sections:\n\nHomepage: “Together, We End Loneliness”\nKey Metrics Highlighted: “85% of users feel less lonely after 1 month.”\nHow It Works Section: Join group calls and track your emotional progress.\nCommunity Section: Interactive map showing the geographic reach of the platform.\nEmotional Resonance Section: Dashboard showcasing positive user feedback\nCall-to-action: For users to sign up"
+  },
+  {
+    "objectID": "presentation.html#dashboard-types",
+    "href": "presentation.html#dashboard-types",
+    "title": "EndingLoneliness",
+    "section": "Dashboard Types",
+    "text": "Dashboard Types\n\nImpact Dashboard Showcasing the effectiveness of the platform in reducing loneliness among users (% of users reporting reduced loneliness after 1 week, 1 month, and 3 months).\nEngagement Dashboard Highlighting the level of user activity and engagement (number of active users weekly and monthly.)\nCommunity Growth Dashboard Depicting the growth and diversity of the community to show that it is scaling and inclusive (geographic spread of users).\nSentiment Dashboard Data use to demonstrate the emotional resonance and positive impact on users’ lives (success stories highlighted with data points)."
+  },
+  {
     "objectID": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
     "href": "tab-presentation/presentation1/presentation-example.html#what-this-course-is-about",
     "title": "Course overview",
@@ -68,20 +89,6 @@
     "title": "Course overview",
     "section": "Summary",
     "text": "Summary\n\nDashboards are powerful tools for decision-making.\nEffective dashboards balance clarity, relevance, and visual appeal.\nAvoid common pitfalls by focusing on user needs and testing designs."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Add a title",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-  },
-  {
-    "objectID": "index.html#nemo-enim-ipsam",
-    "href": "index.html#nemo-enim-ipsam",
-    "title": "Add a title",
-    "section": "Nemo enim ipsam",
-    "text": "Nemo enim ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
   },
   {
     "objectID": "tab-one/tab-one-index.html",
